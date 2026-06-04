@@ -4,7 +4,7 @@
 
 A full-stack web application that provides an interactive environment for learning SQL through hands-on practice with real-time query execution, intelligent hints, and comprehensive test validation.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-username.github.io/ciphersqlstudio)
+[![Live Demo](https://sql.devmachine.space/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
